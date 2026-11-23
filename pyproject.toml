@@ -1,0 +1,13 @@
+[project]
+name = "steam-player-segmentation"
+version = "0.1.0"
+description = "Steam player segmentation case study using BIRCH"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel",
+    "jupyterlab",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+]

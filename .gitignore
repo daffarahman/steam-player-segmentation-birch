@@ -1,0 +1,27 @@
+# Python and Jupyter
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local dataset and generated files
+/steam-200k.csv
+/steam_player_profiles_with_clusters.csv
+/steam_birch_parameter_results.csv
+/steam_birch_cluster_summary.csv
+/steam_birch_selected_model.csv
+/steam_birch_pca.png
+/output/
+/tmp/
+
+# LaTeX sources, builds, and report archives
+*.tex
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*_latex.zip
